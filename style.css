@@ -3,10 +3,7 @@
     height:100%;
     width: 800px;
 }
-/* .height
-{
-   max-height: 600px;
-} */
+
 .card
 {
     /* width: 280px; */
@@ -15,15 +12,9 @@
 }
 .card img {border-radius: 0.4rem 0.4rem 0 0 ;}
 
-.overflow
-{
-    max-height: 1000px;
-}
+.overflow{ max-height: 1000px;}
 
-.input-width
-{
-    width: 100%;
-}
+.input-width{ width: 100%;}
 
 .tborder
 {
