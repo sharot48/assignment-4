@@ -1,0 +1,36 @@
+.photo
+{
+    height:100%;
+    width: 800px;
+}
+/* .height
+{
+   max-height: 600px;
+} */
+.card
+{
+    /* width: 280px; */
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.514);
+    border-radius: 0.4rem;
+}
+.card img {border-radius: 0.4rem 0.4rem 0 0 ;}
+
+.overflow
+{
+    /* width: 300px; */
+    max-height: 1000px;
+}
+
+.input-width
+{
+    width: 100%;
+}
+
+.tborder
+{
+    border: solid 5px black;
+    padding: 5px 10px;
+    width: 100%;
+    height: 10px;
+    
+}
