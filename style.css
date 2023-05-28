@@ -17,7 +17,6 @@
 
 .overflow
 {
-    /* width: 300px; */
     max-height: 1000px;
 }
 
@@ -31,6 +30,5 @@
     border: solid 5px black;
     padding: 5px 10px;
     width: 100%;
-    height: 10px;
-    
+    height: 10px;   
 }
